@@ -1,5 +1,6 @@
 #include <iostream>
 
-void helloWorld() {
+void helloWorld()
+{
     std::cout << "Hello, World!" << std::endl;
 }
